@@ -1,0 +1,33 @@
+.campaign-card {
+    background-color: rgb(247, 247, 247);
+    border-radius: 25px;
+    width: 26rem;
+    margin-top: 3rem !important;
+
+    -webkit-box-shadow: 6px 28px 48px -12px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 6px 28px 48px -12px rgba(0, 0, 0, 0.75);
+    box-shadow: 6px 28px 48px -12px rgba(0, 0, 0, 0.75);
+}
+.campaign-card-cont {
+    padding: 1rem 4rem !important;
+}
+.img-div {
+    background-color: rgb(228, 228, 228);
+    border-radius: 25px;
+    width: 100%;
+    height: 26rem;
+}
+.img-div img {
+    position: absolute;
+    border-radius: 25px;
+    width: 100%;
+    height: 20%;
+}
+#p-cc {
+    margin-top: 1rem !important;
+    color: #000000;
+}
+#b-cc {
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.3rem !important;
+}
