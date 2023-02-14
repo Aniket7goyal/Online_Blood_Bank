@@ -1,0 +1,4 @@
+Install Node files by using command,
+#node i
+in both server and client intergrated terminal, that's all .
+Thanks.
